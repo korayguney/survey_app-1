@@ -42,7 +42,7 @@ http://localhost:8081/
 
 The project will run on port 8081 (configured into application.properties). 
 
- 
+ ![images](images/Screenshot_1.png)
 
  
 
@@ -56,31 +56,31 @@ To access the Swagger UI, just go to;
 
 http://localhost:8081/swagger-ui.html 
 
- 
+ ![images](images/Screenshot_2.png) 
 
  
 
 You can create survey; 
 
- 
+  ![images](images/Screenshot_3.png)
 
  
 
 Find all surveys; 
 
- 
+  ![images](images/Screenshot_4.png)
 
  
 
 Find survey by topic; 
 
- 
+  ![images](images/Screenshot_5.png)
 
  
 
 Find total scores by topic; 
 
- 
+  ![images](images/Screenshot_6.png)
 
  
 
@@ -100,12 +100,12 @@ http://localhost:8081/h2-console
 
 (Password : password) 
 
- 
+  ![images](images/Screenshot_7.png)
 
  
 
 You can check the database from here: 
 
- 
+  ![images](images/Screenshot_8.png)
 
  
